@@ -1,3 +1,5 @@
 Basic Programs:
-1.Addition of Two Numbers in Java without using Scanner
-2.
+1.Addition of Two Numbers in Java without using Scanner.
+2.Simple interest is a quick and easy method of calculating the interest charge on a loan. Simple interest is determined by multiplying the daily interest rate by the principal by the number of days that elapse between payments.
+3.Compound Interest Program in Java | Compound interest is calculated by multiplying the initial principal amount by one plus the annual interest rate raised to the number of compound periods minus one. After that, the total initial amount of the loan is then subtracted from the resulting value.
+4.we will develop a program to display the ASCII value of alphabets in java.

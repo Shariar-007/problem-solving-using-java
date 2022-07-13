@@ -1,4 +1,4 @@
-package basicPrograms;
+package midLevelPrograms;
 
 import java.util.Scanner;
 

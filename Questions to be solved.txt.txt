@@ -5,3 +5,5 @@ Basic Programs:
 4.we will develop a program to display the ASCII value of alphabets in java.
 5.Calculate Area Of Circle
 6.Calculate Area Of ISOSCELES
+7.swap 2 numbers using third variable, no third variable and using XOR operation.
+8.UnitConversion (using menu system)
